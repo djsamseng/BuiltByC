@@ -1,0 +1,10 @@
+{
+  "name": "BuiltByC",
+  "version": "1.0.0",
+  "description": "Website for builtbyc.com",
+  "main": "index.js",
+  "repository": "https://github.com/djsamseng/BuiltByC.git",
+  "author": "Sam Seng <djsamseng@gmail.com>",
+  "license": "None",
+  "private": false
+}
